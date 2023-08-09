@@ -18,6 +18,6 @@ function NavBar() {
       </NavLink>
     </div>
   );
-}
+};
 
 export default NavBar;
